@@ -16,6 +16,8 @@ Duarte Vázquez Kevin Alexis.
 Venegas Garibay Ali.
 
 # Resultados:
-<img src="Resultado 1.png">
+
+Calculo de frecuencias en atributos categoricos:
+<img src="frecuencias_categoricos.png">
 <img src="Resultado 0.png">
 

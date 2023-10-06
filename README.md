@@ -1,5 +1,5 @@
 # Naive-Bayes
-Actividad 09: Implementación de Naïve Bayes y matrices de confusión
+Actividad 09: Implementación de Naïve Bayes y Matrices De Confusión
 
 Materia: Minería De Datos - D02 - 2023B
 

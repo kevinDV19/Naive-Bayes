@@ -1,5 +1,5 @@
 # Naive-Bayes
-Actividad 09: Implementación de Naïve Bayes y Matrices De Confusión
+<h2> Actividad 09: Implementación de Naïve Bayes y Matrices De Confusión
 
 Materia: Minería De Datos - D02 - 2023B
 
@@ -13,7 +13,7 @@ Aldape Rodríguez Kevin Jair.
 
 Duarte Vázquez Kevin Alexis.
 
-Venegas Garibay Ali.
+Venegas Garibay Ali. </h2>
 
 # Resultados:
 

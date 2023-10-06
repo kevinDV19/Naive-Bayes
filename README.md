@@ -22,6 +22,8 @@ Venegas Garibay Ali.
 
 <h2> Calculo de verosimilitudes en atributos categoricos: </h2> 
 <img src="/Resultados/verosimilitudes_categoricos.jpg">
+<img src="/Resultados/verosimilitudes_categoricos2.jpg">
+<img src="/Resultados/verosimilitudes_categoricos3.jpg">
 
 <h2> Calculo de verosimilitudes en atributos numericos: </h2> 
 <img src="/Resultados/verosimilitudes_numericos.jpg">

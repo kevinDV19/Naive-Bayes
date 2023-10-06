@@ -17,7 +17,8 @@ Venegas Garibay Ali.
 
 # Resultados:
 
-#3 Calculo de frecuencias en atributos categoricos:
+<h2> </h2> Calculo de frecuencias en atributos categoricos: </h2> 
+
 <img src="frecuencias_categoricos.jpg">
 <img src="Resultado 0.png">
 
